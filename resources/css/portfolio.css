@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
-  background-image: url("../Images/hypnotize_bg.png");
+  background-image: url("/resources/images/hypnotize_bg.png");
 }
 
 header {
@@ -31,7 +31,7 @@ a {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image:url("../Images/Background.jpg");
+  background-image:url("/resources/images/Background.jpg");
   background-size: cover;
   color: #ffffff;
   height: 400px;
