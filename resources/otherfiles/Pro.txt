@@ -1,0 +1,5 @@
+Diseño, desarrollo y programación del "Sistema de Control y Administración de Proyectos", para el "Departamento de Gerencia de Proyectos e Ingeniería", en la empresa "Alfonso Rivas & Cia., C.A.
+
+Participación en el desarrollo y programación del 60% del "Sistema Integrado de Tesorería", para  el "Departamento de Gerencia de Finanzas", en la empresa "Alfonso Rivas & Cia., C.A.
+
+Diseño, desarrollo y programación de la adaptación, hacia la plataforma IBM AS/400, del "Sistema Integrado de Tesorería", bajo Visual Basic 6.0, SQL e IBM DB/2 - 400. 
